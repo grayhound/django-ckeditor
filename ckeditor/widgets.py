@@ -17,10 +17,10 @@ DEFAULT_CONFIG = {
 	'toolbar': [
 		[ 'Bold', 'Italic', '-', 'NumberedList', 'BulletedList', '-', 'Link', 'Unlink', '-', 'Uploadcare' ]
 	],
-    'height': 291,
-    'width': 835,
-    'filebrowserWindowWidth': 940,
-    'filebrowserWindowHeight': 725,
+    'height': 480,
+    'width': 640,
+    'filebrowserWindowWidth': 640,
+    'filebrowserWindowHeight': 480,
 }
 
 
